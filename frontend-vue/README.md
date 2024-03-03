@@ -30,5 +30,5 @@ Open the browser and go to [http://localhost:8080](http://localhost:8080)
 ## Todo
 
 - [x] Unit tests
-- [x] E2E tests
+- [x] E2E test
 - [ ] File upload
